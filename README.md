@@ -1,5 +1,4 @@
-
-## 🌐 Langages de programmation
+**Langages de programmation**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
@@ -8,12 +7,17 @@
 
 ---
 
-## 🚀 Framework
+**Framework**
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
 
 ---
 
-## 🎨 Logiciels
+**CMS**
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+
+---
+
+**Logiciels**
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge)
