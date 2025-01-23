@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🛠️ Compétences 
 
-<!--
-**DraayZe/DraayZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Langages de programmation
+- **HTML**
+- **CSS** / **SCSS**
+- **PHP**
+- **JavaScript**
 
-Here are some ideas to get you started:
+### 🧰 Framework
+- **Symfony**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CMS
+- **Wordpress**
+
+---
+
+## 🎨 Logiciels maîtrisés
+- **Photoshop** & **Illustrator** (création graphique)
+- **Premiere Pro** & **After Effects** (montage vidéo et animations)
+- **Blender** (modélisation 3D)
+- **Figma** (design d'interfaces)
+
+---
+
