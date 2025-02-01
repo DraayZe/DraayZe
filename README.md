@@ -7,7 +7,7 @@ I’m currently learning Vue.js et Three.js to expand my front-end development s
 
 ---
 
-## The programming languages and software I master
+### The programming languages and software I master
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
