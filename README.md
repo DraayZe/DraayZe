@@ -1,6 +1,8 @@
 ## 👨‍💻 **About Me**
 I’m **Lenny Fernet**, a developer from France ! 
-I’m currently learning **Vue.js** to expand my front-end development skills.  
+I’m currently learning **Vue.js** et **Three.js** to expand my front-end development skills.  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
 
 ---
 
