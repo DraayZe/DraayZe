@@ -21,6 +21,10 @@ I’m currently working on a web project for a fictional music festival called *
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
 
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,cpp,bash,json,mysql,powershell,sass,markdown,tailwindcss,react,nextjs,nodejs,vuejs,git,mongodb,bootstrap,express&theme=viridescent" />
+</div>
+
 ---
 
 ### Some tools and technologies that I use on a daily basis
