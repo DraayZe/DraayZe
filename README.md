@@ -6,7 +6,6 @@
   🌐 <a href="https://lennyfernet.fr/" target="_blank">Visit my official website</a>
 </p>
 
-
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=DraayZe&data=followers,repositories,stars,commits&theme=viridescent" />
 </div>
@@ -18,6 +17,11 @@
   </a>
 </div>
 
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DraayZe&theme=github-compact" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DraayZe.DraayZe&left_color=blueviolet"  />
 </div>
