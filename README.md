@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=DraayZe&data=followers,repositories,stars,commits&theme=viridescent" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=DraayZe&data=followers,repositories,commits&theme=viridescent" />
 </div>
 
 <div align="center" style="background-color:#f5f5f5; padding: 20px; border-radius: 10px; margin-top: 20px;">
